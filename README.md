@@ -35,4 +35,4 @@ AI Project employ Alpha-Beta Pruning for optimal decision-making. User input: Re
    
 4. Results
 
-From this Learning Activity This program aims to improve teaching in the area of: the basic principles of gaming strategy. decision-making skills. the role of artificial intelligence in military strategy.
+Improves the basic principles of gaming strategy and decision-making skills.
